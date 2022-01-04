@@ -10,6 +10,8 @@ TagManager:
   - Purple
   - Pink
   - Yellow
+  - YellowCube
+  - Bamboo
   layers:
   - Default
   - TransparentFX
